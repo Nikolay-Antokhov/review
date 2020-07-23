@@ -1,4 +1,14 @@
-# code-review
+## Code Review
 
-npm run start
-npm run build
+### Installation
+
+```shell
+$ npm install
+```
+
+### Usage
+
+```shell
+$ npm run start
+$ npm run build
+```
