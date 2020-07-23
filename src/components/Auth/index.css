@@ -1,0 +1,35 @@
+#auth {
+  height: 100vh;
+}
+#auth .card {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+#auth .card-body {
+  padding: 1.25rem 2.5rem;
+}
+#auth h6 {
+  line-height: 1.7;
+}
+#auth .form-check {
+  margin-bottom: 0!important;
+}
+#auth .md-form {
+  margin-bottom: 0px !important;
+}
+#auth .md-form label {
+  color: #ffffff;
+}
+#auth .md-form input[type=text]:focus:not([readonly])+label,
+#auth .md-form input[type=password]:focus:not([readonly])+label,
+#auth .md-form input[type=email]:focus:not([readonly])+label {
+  color: #8EDEF8;
+}
+#auth .md-form input[type=text]:focus:not([readonly]),
+#auth .md-form input[type=password]:focus:not([readonly]),
+#auth .md-form input[type=email]:focus:not([readonly]) {
+  border-bottom: 1px solid #8EDEF8;
+  box-shadow: 0 1px 0 0 #8EDEF8;
+}
+#auth .pswd-wrapper {
+  height: 70px;
+}
