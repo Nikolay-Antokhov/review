@@ -1,4 +1,6 @@
-## Code Review
+# Code Review
+
+## Simple SPA like example of my code
 
 ### Installation
 
